@@ -12,7 +12,9 @@ This is a simple student online course enrollment system which is built with raw
 <h4> Students Course Enrollment History </h4>
 
 ![alt text](https://user-images.githubusercontent.com/73092728/110900479-02e10380-832d-11eb-8741-335ca6867734.png)
+<br>
 
 <h4> View Student Applied Courses </h4>
+
 ![alt text](https://user-images.githubusercontent.com/73092728/110900693-5ce1c900-832d-11eb-8ed3-237b9d475d10.png)
 
